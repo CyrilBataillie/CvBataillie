@@ -1096,6 +1096,10 @@ Resume Timeline
     text-align: center;
 }
 
+.en.percent:after {
+    content: ' years';
+}
+
 .percent:after {
     content: ' ans';
 }
